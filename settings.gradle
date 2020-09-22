@@ -1,0 +1,4 @@
+include ':lib-common'
+include ':lib-net'
+include ':app'
+rootProject.name = "AdvanceRetrofit"
